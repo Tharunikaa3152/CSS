@@ -1,0 +1,155 @@
+.parent{
+    width:400px;
+    height: 400px;;
+    background-color: rgb(223, 226, 43);
+    display: flex;
+    padding: 10px;
+    gap:10px;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+
+}
+.child1{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 7px;
+    padding: 7px;
+    flex-wrap: wrap;
+}
+
+.child2{
+    width: 100px;
+    height: 100px;
+    background-color:rgb(238, 213, 170);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 7px;
+    padding: 7px;
+    flex-wrap: wrap;
+}
+.child3{
+    width: 100px;
+    height: 100px;
+    background-color:rgb(139, 46, 92) ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 7px;
+    padding: 7px;
+    flex-wrap: wrap;
+}
+.child4{
+    width: 100px;
+    height: 100px;
+    background-color:rgb(33, 174, 230);
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 7px;
+    padding: 7px;
+    flex-wrap: wrap;
+}
+.child5{
+    width: 100px;
+    height: 100px;
+    background-color:cornflowerblue;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 7px;
+    padding: 7px;
+    flex-wrap: wrap;
+}
+.grant1{
+    width: 20px;
+    height: 20px;
+    background-color: palevioletred;
+
+}
+.grant2{
+    width: 20px;
+    height: 20px;
+    background-color: palevioletred;
+
+}
+
+.grant3{
+    width: 20px;
+    height: 20px;
+    background-color: palevioletred;
+}
+
+.grant4{
+    width: 20px;
+    height: 20px;
+    background-color: palevioletred;
+
+}
+.grant5{
+    width: 20px;
+    height: 20px;
+    background-color: palevioletred;
+  
+}
+.grant2{
+    width: 20px;
+    height: 20px;
+    background-color: rgb(211, 112, 216);
+
+}
+
+.grant3{
+    width: 20px;
+    height: 20px;
+    background-color: palevioletred;
+}
+
+.grant4{
+    width: 20px;
+    height: 20px;
+    background-color: palevioletred;
+
+}
+.grant5{
+    width: 20px;
+    height: 20px;
+    background-color: rgb(216, 112, 112);
+  
+}
+.grant11{
+    width: 20px;
+    height: 20px;
+    background-color: rgb(221, 237, 100);
+
+}
+.grant21{
+    width: 20px;
+    height: 20px;
+    background-color: rgb(237, 100, 141);
+
+}
+
+.grant31{
+    width: 20px;
+    height: 20px;
+    background-color:rgb(210, 152, 221);
+}
+
+.grant41{
+    width: 20px;
+    height: 20px;
+    background-color: rgb(100, 187, 237);
+
+}
+.grant51{
+    width: 20px;
+    height: 20px;
+    background-color: rgb(100, 237, 132);
+  
+}
